@@ -115,3 +115,17 @@
 * UX тестирование
 ** UX тестирование (тестирование пользовательского опыта) — это процесс оценки взаимодействия пользователя с продуктом. Цель — выявить проблемы в удобстве использования и удовлетворенности пользователей. Это может включать в себя тестирование прототипов, опрос
 * TODO Мобильное программирование, платформы для разработки. Виды мобильных приложений и их архитектура.
+
+* Практическая часть
+** https://www.figma.com/design/iXEXSu2LcX33UweLef5moD/task1?node-id=0-1&p=f
+** https://www.figma.com/design/25ZTAF4iKQE0bz4RTzxzb3/Mood-Music-player-App--Community-?node-id=1-1549
+** https://www.figma.com/design/ItHEGa2SQ2LjDxM9WkPe3H/task2?node-id=0-1&p=f
+** https://www.figma.com/design/OrH4t5waUwm4UuURX2nmUK/Medic--Copy-?node-id=0-1&p=f
+** https://www.figma.com/design/25ZTAF4iKQE0bz4RTzxzb3/Mood-Music-player-App--Community-?node-id=1-1549
+** https://www.figma.com/design/tzFoXYZgMLcQ7uZPC7m6S4/Task?node-id=0-1&p=f
+** https://www.figma.com/design/3hIQs2iCCV7s7wOt0Pkpph/Yoga-Fitness-App-ui-Design?node-id=0-1&p=f
+** https://www.figma.com/design/K2fpQu6Kmt8M6V7xSsMAY4/Medical-Clinik-App?node-id=1-2&p=f
+** https://www.figma.com/design/F1G1jlKI1gLUPlFWWq82Mm/Podcast-App?node-id=0-1&p=f
+** https://www.figma.com/design/lQz0klolptMQLNfF0CjufY/%D0%A0%D0%A7-1-%D0%A1%D0%B5%D1%81%D1%81%D0%B8%D1%8F--Copy-
+** https://www.figma.com/design/9KjiCyDm113uiQrZ5U8hrI/NearBy---Free-Symu.co?node-id=0-1&p=f
+** https://www.figma.com/design/YPtmlD4j5fNY1LhhMcAecP/DailyFit---Free-Symu?node-id=161-1274&p=f
