@@ -3,7 +3,7 @@
 *** Функциональное тестирование: проверка функциональности ПО.
 *** Регрессивное тестирование: проверка, что изменения в коде не повлияли на существующий функционал.
 *** Тестирование производительности: оценка скорости, масштабируемости и стабильности ПО под нагрузкой.
-*** Тестирование безопасности - тестирование ПО на исключение уязвимостей.
+*** Тестирование безопасности - тестирование ПО на наличие уязвимостей.
 * Основные встроенные типы данных в современных в языках программирования
 ** Int
 ** String
@@ -265,10 +265,9 @@
 *** Гибридные приложения - Сочетают элементы веб-приложений и нативных приложений. Они разрабатываются с помощью веб-технологий  и оборачиваются в нативный контейнер (инструменты к примеру: Apache Cordova, Lonic)
 * Практическая часть
 ** DONE https://www.figma.com/design/iXEXSu2LcX33UweLef5moD/task1?node-id=0-1&p=f
-** TODO https://www.figma.com/design/25ZTAF4iKQE0bz4RTzxzb3/Mood-Music-player-App--Community-?node-id=1-1549
-** TODO https://www.figma.com/design/ItHEGa2SQ2LjDxM9WkPe3H/task2?node-id=0-1&p=f
+** DONE https://www.figma.com/design/25ZTAF4iKQE0bz4RTzxzb3/Mood-Music-player-App--Community-?node-id=1-1549
+** DONE https://www.figma.com/design/ItHEGa2SQ2LjDxM9WkPe3H/task2?node-id=0-1&p=f
 ** TODO https://www.figma.com/design/OrH4t5waUwm4UuURX2nmUK/Medic--Copy-?node-id=0-1&p=f
-** TODO https://www.figma.com/design/25ZTAF4iKQE0bz4RTzxzb3/Mood-Music-player-App--Community-?node-id=1-1549
 ** TODO https://www.figma.com/design/tzFoXYZgMLcQ7uZPC7m6S4/Task?node-id=0-1&p=f
 ** TODO https://www.figma.com/design/3hIQs2iCCV7s7wOt0Pkpph/Yoga-Fitness-App-ui-Design?node-id=0-1&p=f
 ** TODO https://www.figma.com/design/K2fpQu6Kmt8M6V7xSsMAY4/Medical-Clinik-App?node-id=1-2&p=f
